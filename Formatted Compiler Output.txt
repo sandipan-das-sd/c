@@ -1,0 +1,9 @@
+F:\coding\c\pascal traingle.c	In function 'main':
+16	17	F:\coding\c\pascal traingle.c	[Error] called object 'fact' is not a function or function pointer
+5	14	F:\coding\c\pascal traingle.c	[Note] declared here
+16	25	F:\coding\c\pascal traingle.c	[Error] called object 'fact' is not a function or function pointer
+5	14	F:\coding\c\pascal traingle.c	[Note] declared here
+16	33	F:\coding\c\pascal traingle.c	[Error] called object 'fact' is not a function or function pointer
+5	14	F:\coding\c\pascal traingle.c	[Note] declared here
+20	6	F:\coding\c\pascal traingle.c	[Error] 'fact' redeclared as different kind of symbol
+5	14	F:\coding\c\pascal traingle.c	[Note] previous declaration of 'fact' was here
